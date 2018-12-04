@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Easy weather</string>
+    <string name="celcius_symbol">%d ℃</string>
+    <string name="icon_url">http://openweathermap.org/img/w/%s.png</string>
+</resources>
